@@ -1,5 +1,8 @@
 # 🌙 Lunar Account Tool
 
+# Join Disord 
+[Discord](https://discord.gg/ScuBuNTFgy)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![Electron](https://img.shields.io/badge/Electron-28.0.0-blue)](https://electronjs.org/)
@@ -8,6 +11,8 @@ A modern, cross-platform desktop application built with Electron for managing Lu
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1389596858212683871/1389618935623585873/image.png?ex=686546fc&is=6863f57c&hm=f5d16d6a3258b8b9b8a32b55e80718b148ea53234fc4a49acd8c7fc87efa8376&)
 *Modern dark-themed interface with intuitive account management*
+
+
 
 ## ✨ Features
 
