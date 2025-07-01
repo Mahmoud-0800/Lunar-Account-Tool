@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4c9eff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2e7bd4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="moonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e0e0e0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="256" height="256" rx="32" fill="url(#bgGradient)"/>
+  
+  <!-- Moon -->
+  <circle cx="128" cy="128" r="64" fill="url(#moonGradient)"/>
+  
+  <!-- Craters -->
+  <circle cx="115" cy="110" r="8" fill="#d0d0d0" opacity="0.6"/>
+  <circle cx="140" cy="120" r="6" fill="#d0d0d0" opacity="0.6"/>
+  <circle cx="125" cy="145" r="5" fill="#d0d0d0" opacity="0.6"/>
+  <circle cx="145" cy="140" r="4" fill="#d0d0d0" opacity="0.6"/>
+  
+  <!-- Highlight -->
+  <ellipse cx="115" cy="105" rx="12" ry="18" fill="rgba(255,255,255,0.3)"/>
+</svg>
