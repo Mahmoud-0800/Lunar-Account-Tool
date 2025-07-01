@@ -6,7 +6,7 @@
 
 A modern, cross-platform desktop application built with Electron for managing Lunar Client accounts. Features a sleek, dark-themed UI with support for creating, managing, and organizing both cracked and premium Minecraft accounts.
 
-![App Screenshot](https://via.placeholder.com/800x450/1a1a1a/ffffff?text=Lunar+Account+Tool)
+![App Screenshot]([https://via.placeholder.com/800x450/1a1a1a/ffffff?text=Lunar+Account+Tool](https://cdn.discordapp.com/attachments/1389596858212683871/1389618935623585873/image.png?ex=686546fc&is=6863f57c&hm=f5d16d6a3258b8b9b8a32b55e80718b148ea53234fc4a49acd8c7fc87efa8376&))
 *Modern dark-themed interface with intuitive account management*
 
 ## ✨ Features
