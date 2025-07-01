@@ -41,8 +41,8 @@ A modern, cross-platform desktop application built with Electron for managing Lu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/CrackedLunarAccountTool-Electron.git
-   cd CrackedLunarAccountTool-Electron
+   git clone [https://github.com/yourusername/CrackedLunarAccountTool-Electron](https://github.com/Mahmoud-0800/Lunar-Account-Tool).git
+   cd Lunar-Account-Tool
    ```
 
 2. **Install dependencies**
@@ -157,7 +157,7 @@ This application follows Electron security best practices:
 
 ### System Requirements
 - **Operating System**: Windows 10/11, macOS 10.14+, or Linux (Ubuntu 18.04+)
-- **RAM**: 4GB minimum, 8GB recommended
+- **RAM**: Runs on a Potato 🥔
 - **Storage**: 100MB free space
 - **Lunar Client**: Must be installed for account management features
 
@@ -233,4 +233,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for the Minecraft community**
+**Made with ❤️ by Mahmoud for the Minecraft community**
